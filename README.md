@@ -1,6 +1,6 @@
 # Maven Banking App
 
-Check out the deployed app at https://maven-banking-app.herokuapp.com/home
+
 
 This project simulates an application used by a bank to manage customers and accounts, as well as the user interface used by customers and employees of the bank to interact with the system.
 
